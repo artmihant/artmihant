@@ -6,4 +6,4 @@ Moreover, I teach classes in [mathematical circles at Moscow State University](h
 
 I know and love Python and JavaScript and love and know a little Haskell, C and PHP.
 
-If you are interested in my person, you may be curious to look at my articles on [HabraHabr](https://habr.com/ru/users/celen/posts/)
+If you are interested in my person, you may be curious to look at my articles on [Habr](https://habr.com/ru/users/celen/posts/)
