@@ -10,4 +10,3 @@ If you are interested in my person, you may be curious to look at my articles on
 
 if you want to contact me write to [artmihant@gmail.com](mailto:artmihant@gmail.com)
 
-On the avatar is a fragment of Durer's engraving Saint Christopher, which I like for its expressiveness.
